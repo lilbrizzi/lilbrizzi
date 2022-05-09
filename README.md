@@ -38,7 +38,6 @@ Let me introduce myself  :girl:
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiasts <br>
         :beginner: Web Designing <br>
-        :beginner: Strategy <br>
         :beginner: Adattability <br>
         :beginner: Team working <br>
 
