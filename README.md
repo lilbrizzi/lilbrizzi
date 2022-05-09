@@ -105,7 +105,9 @@ Let me introduce myself  :girl:
 
 
 <h2>Connect with me!</h2>
- 
+
+
+<a href="https://instagram.com/lollobrizzi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lollobrizzi_" height="30" width="40" /></a>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lorenzo-brizzi-49451022a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlib7AB2fzJNIKx05H_rLt8-ZP509HMR_8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bo9Bul8wzTwKgpmU%2F8r%2BRSg%3D%3D) 
 
 
