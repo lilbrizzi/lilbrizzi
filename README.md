@@ -7,7 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=lilbrizzi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
-                             
                     
 <details align="center"> 
   <summary>GitHub Trophies 🏆</summary>
@@ -17,9 +16,7 @@
   </a>
 </p>
 </details>
-  
-  
-    
+   
   
 <details>
    <summary>Github Stats of me:</summary>
@@ -75,45 +72,22 @@ Let me introduce myself  :girl:
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
   
-
-
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
  ### ⚡️ Fun fact about me: ✨ I love coding+learning+partying✨ 
  
 
-
 <h2>Connect with me!</h2>
 
-
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/lorenzo-brizzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-brizzi" height="30" width="40" /></a>
 <a href="https://instagram.com/lollobrizzi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lollobrizzi_" height="30" width="40" /></a>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lorenzo-brizzi-49451022a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlib7AB2fzJNIKx05H_rLt8-ZP509HMR_8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bo9Bul8wzTwKgpmU%2F8r%2BRSg%3D%3D) 
-
-
-
-
-
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
