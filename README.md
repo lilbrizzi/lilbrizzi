@@ -71,9 +71,7 @@ Let me introduce myself  :girl:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
 
  ### ⚡️ Fun fact about me: ✨ I love coding+learning+partying✨ 
  
