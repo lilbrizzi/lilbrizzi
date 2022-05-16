@@ -77,7 +77,7 @@ Let me introduce myself  :girl:
  
 
 <h2>Connect with me!</h2>
-<a href="https://linkedin.com/in/www.linkedin.com/in/lorenzo-brizzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-brizzi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lorenzo-brizzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-brizzi" height="30" width="40" /></a>
 <a href="https://instagram.com/lollobrizzi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lollobrizzi_" height="30" width="40" /></a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
