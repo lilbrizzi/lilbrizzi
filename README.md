@@ -73,7 +73,7 @@ Let me introduce myself  :girl:
 <div align="center">
 
 
- ### ⚡️ Fun fact about me: ✨ I love coding+learning+partying✨ 
+ ### ⚡️ Fun fact about me: ✨ I'm addicted to music and people✨ 
  
 
 <h2>Connect with me!</h2>
