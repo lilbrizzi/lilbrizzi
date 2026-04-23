@@ -52,7 +52,7 @@ Esempio:
 
 - **Domain Adaptation Project** – Unsupervised adaptation in biased datasets  
 - **Computer Vision Model** – Image classification pipeline in PyTorch  
-- **Data Visualization Project <a href="https://github.com/Daniele-Scala/barla_boyz"> ** – End-to-end analysis with visualizations providing a comprehensive overview of various health indicators across countries over several years.  
+- <a href="https://github.com/Daniele-Scala/barla_boyz"> **Data Visualization Project** – End-to-end analysis with visualizations providing a comprehensive overview of various health indicators across countries over several years.  
 
 *(Se vuoi, posso aiutarti a scriverli bene uno per uno — è la parte più importante.)*
 
