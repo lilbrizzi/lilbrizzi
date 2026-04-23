@@ -21,8 +21,6 @@ Focused on **Machine Learning, Deep Learning, and Domain Adaptation**, with a pa
 - Bias Mitigation in AI  
 - Real-world AI applications  
 
-Currently completing my MSc at the University of Genoa, with a thesis on **Unsupervised Domain Adaptation in biased contexts**.
-
 ---
 
 ## 🧠 Technical Skills
