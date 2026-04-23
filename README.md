@@ -33,28 +33,6 @@ Focused on **Machine Learning, Deep Learning, and Domain Adaptation**, with a pa
 
 ---
 
-## 🧠 Technical Skills
-
-**Machine Learning & AI**
-- Supervised / Unsupervised Learning
-- Domain Adaptation
-- Bias Mitigation
-
-**Deep Learning**
-- PyTorch
-- Neural Networks (CNNs)
-
-**Data Analysis**
-- Pandas, NumPy
-- Matplotlib, Seaborn
-
-**Programming**
-- Python (main)
-- C++
-- JavaScript
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
