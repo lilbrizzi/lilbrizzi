@@ -23,6 +23,16 @@ Focused on **Machine Learning, Deep Learning, and Domain Adaptation**, with a pa
 
 ---
 
+## 🚀 Featured Projects
+
+- <a href="https://github.com/lilbrizzi/Computational-Vision-Project"> **Computational Vision (CV) Project: A Feature-Based Approach to Panoramic Image Stitching Using SIFT and RANSAC**
+  
+- <a href="https://github.com/Daniele-Scala/Data_visualization_project_BarlaBoyz"> **Data Visualization Project** – End-to-end analysis with visualizations providing a comprehensive overview of various health indicators across countries over several years.  
+
+- <a href="https://github.com/lilbrizzi/Automated-Prompt-Generation-Dataset-Cleanup-and-Optimized-Model-Training"> **Additional Usefull Knowledge (AUK): Automated Prompt Generation, Dataset Cleanup, and Optimized Model Training**
+
+---
+
 ## 🧠 Technical Skills
 
 **Machine Learning & AI**
@@ -43,16 +53,6 @@ Focused on **Machine Learning, Deep Learning, and Domain Adaptation**, with a pa
 - C++
 - JavaScript
 
----
-
-## 🚀 Featured Projects
-
-- <a href="https://github.com/lilbrizzi/Computational-Vision-Project"> **Computational Vision (CV) Project: A Feature-Based Approach to Panoramic Image Stitching Using SIFT and RANSAC**
-  
-- <a href="https://github.com/Daniele-Scala/Data_visualization_project_BarlaBoyz"> **Data Visualization Project** – End-to-end analysis with visualizations providing a comprehensive overview of various health indicators across countries over several years.  
-
-- <a href="https://github.com/lilbrizzi/Automated-Prompt-Generation-Dataset-Cleanup-and-Optimized-Model-Training"> **Additional Usefull Knowledge (AUK): Automated Prompt Generation, Dataset Cleanup, and Optimized Model Training**
-   
 ---
 
 ## 📊 GitHub Stats
