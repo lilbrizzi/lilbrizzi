@@ -47,7 +47,7 @@ Focused on **Machine Learning, Deep Learning, and Domain Adaptation**, with a pa
 
 ## 🚀 Featured Projects
 
-- <a href="https://github.com/lilbrizzi/Computatinal-Vision-CV-Project"> **Computational Vision (CV) Project: A Feature-Based Approach to Panoramic Image Stitching Using SIFT and RANSAC**
+- <a href="https://github.com/lilbrizzi/Computational-Vision-Project"> **Computational Vision (CV) Project: A Feature-Based Approach to Panoramic Image Stitching Using SIFT and RANSAC**
   
 - <a href="https://github.com/Daniele-Scala/barla_boyz"> **Data Visualization Project** – End-to-end analysis with visualizations providing a comprehensive overview of various health indicators across countries over several years.  
 
