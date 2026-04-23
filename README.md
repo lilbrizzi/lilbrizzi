@@ -47,14 +47,9 @@ Focused on **Machine Learning, Deep Learning, and Domain Adaptation**, with a pa
 
 ## 🚀 Featured Projects
 
-👉 *(Qui devi mettere 2–4 progetti forti, non di più)*  
-Esempio:
-
-- **Domain Adaptation Project** – Unsupervised adaptation in biased datasets  
-- **Computer Vision Model** – Image classification pipeline in PyTorch  
+- <a href=""> **Additional Usefull Knowledge (AUK): Automated Prompt Generation, Dataset Cleanup, and Optimized Model Training** 
+- <a href=""> **Computatinal Vision (CV) Project: A Feature-Based Approach to Panoramic Image Stitching Using SIFT and RANSAC**   
 - <a href="https://github.com/Daniele-Scala/barla_boyz"> **Data Visualization Project** – End-to-end analysis with visualizations providing a comprehensive overview of various health indicators across countries over several years.  
-
-*(Se vuoi, posso aiutarti a scriverli bene uno per uno — è la parte più importante.)*
 
 ---
 
